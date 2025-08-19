@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "better_cartography_bedrock:map"
+    },
+    "groups": [
+      "better_cartography_bedrock"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:ink_sac"
+      }
+    ],
+    "result": {
+      "item": "minecraft:empty_map",
+      "count": 1
+    }
+  }
+}
