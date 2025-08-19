@@ -1,0 +1,41 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/better_cartography_bedrock_resourcepack/textures/terrain_texture.json",
+      "src/main/better_cartography_bedrock_resourcepack/textures/item_texture.json",
+      "src/main/better_cartography_bedrock_resourcepack/blocks.json",
+      "src/main/better_cartography_bedrock_resourcepack/manifest.json",
+      "src/main/better_cartography_bedrock_behaviourpack/entities/player.json",
+      "src/main/better_cartography_bedrock_resourcepack/sounds/sound_definitions.json",
+      "src/main/better_cartography_bedrock_behaviourpack/manifest.json"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "better_cartography_bedrock",
+    "modName": "Better Cartography Bedrock",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.21.x",
+    "modElementsPackage": "net.mcreator.bettercartographybedrock"
+  },
+  "mcreatorVersion": 202500228610
+}
