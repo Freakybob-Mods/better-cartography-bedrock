@@ -35,6 +35,18 @@
           "src/main/better_cartography_bedrock_behaviourpack/recipes/dupeemptymap.json"
         ]
       }
+    },
+    {
+      "name": "Nametag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametag",
+      "metadata": {
+        "files": [
+          "src/main/better_cartography_bedrock_behaviourpack/recipes/nametag.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
